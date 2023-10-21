@@ -252,7 +252,7 @@ h1.info-acessorios {
     height: 300px;
     margin: 8px;
     border-radius: 5px;
-
+    box-shadow: 2px 2px 10px black;
     overflow: hidden;
 }
 
