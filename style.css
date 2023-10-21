@@ -297,6 +297,7 @@ h1.info-acessorios {
     z-index: 1;
     height: 100vh;
     width: 100%;
+    pointer-events: all;
     display: flex;
     flex-direction: column;
     justify-content: center;
