@@ -460,7 +460,7 @@ form label, smaal {
 
 #sobe.rolagem {
     opacity: 1;
-    z-index: 6;
+    z-index: 99;
 }
 
 .container-sobe {
