@@ -484,10 +484,6 @@ form label, smaal {
     box-shadow: 0px 0px 5px rgb(72, 72, 241);
 }
 
-.container-sobe img {
-    height: 13px;
-    width: 10px;
-}
 
 
 @media (max-width: 768px) {
