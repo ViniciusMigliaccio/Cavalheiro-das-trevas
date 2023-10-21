@@ -294,7 +294,6 @@ h1.info-acessorios {
 #content {
     position: absolute;
     bottom: 0;
-    z-index: 1;
     height: 100vh;
     width: 100%;
     display: flex;
@@ -460,7 +459,7 @@ form label, smaal {
 
 #sobe.rolagem {
     opacity: 1;
-    z-index: 999;
+    z-index: 99;
 }
 
 .container-sobe {
